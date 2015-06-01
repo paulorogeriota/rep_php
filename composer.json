@@ -1,0 +1,11 @@
+{
+    "name": "paulo_000/rep_php",
+    "description": "teste",
+    "authors": [
+        {
+            "name": "Paulo Rogerio",
+            "email": "paulorogeriota@gmail.com"
+        }
+    ],
+    "require": {}
+}
